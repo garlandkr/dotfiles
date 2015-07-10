@@ -5,7 +5,7 @@
 * [Dotfiles](#dotfiles)
   * [Homebrew](#homebrew)
   * [OS X](#os-x)
-  * [Font](#font)
+  * [Fonts](#fonts)
   * [Chrome](#chrome)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
@@ -22,7 +22,7 @@
 ./.osx
 ```
 
-## Font
+## Fonts
 
 _Note: If you use Atom editor, I recommend you should not set `font-feature-settings: "liga" 1;`. It will cause confusing. we are talking about [Ligatures aren't spaced correctly #3821](https://github.com/atom/atom/issues/3821)_
 
