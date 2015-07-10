@@ -2,7 +2,19 @@
 
 :wrench: sensible hacker defaults for OS X
 
-## Font familiy
+## Homebrew
+
+```bash
+./brew.sh
+```
+
+## OS X
+
+```bash
+./.osx
+```
+
+## Font
 
 _Note: If you use Atom editor, I recommend you should not set `font-feature-settings: "liga" 1;`. It will cause confusing. we are talking about [Ligatures aren't spaced correctly #3821](https://github.com/atom/atom/issues/3821)_
 
