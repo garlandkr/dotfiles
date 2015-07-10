@@ -15,3 +15,7 @@ Inspiration and code was taken from many sources, including:
 * [Cătălin Mariș's dotfiles](https://github.com/alrra/dotfiles/)
 * [Nicolas Gallagher's dotfiles](https://github.com/necolas/dotfiles)
 * [Yan Pritzker's dotfiles](https://github.com/skwp/dotfiles/tree/e2f73a0d023400af0ca996737adabff7004aed25)
+
+## Lisence
+
+MIT © Sota Yamashita
