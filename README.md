@@ -2,6 +2,14 @@
 
 :wrench: sensible hacker defaults for OS X. I write comment in Japanese and English.
 
+* Dotfiles
+  * [Homebrew](#homebrew)
+  * [OS X](#os-x)
+  * [Font](#font)
+  * [Chrome](#chrome)
+* [Acknowledgements](#acknowledgements)
+* [License](#license)
+
 ## Homebrew
 
 ```bash
@@ -27,7 +35,7 @@ $ cd /Users/YOUR_HOME_FOLDER/Applications
 $ rm -r Chrome Apps
 ```
 
-## Acknowledgements
+# Acknowledgements
 
 Inspiration and code was taken from many sources, including:
 
@@ -37,6 +45,6 @@ Inspiration and code was taken from many sources, including:
 * [Nicolas Gallagher's dotfiles](https://github.com/necolas/dotfiles)
 * [Yan Pritzker's dotfiles](https://github.com/skwp/dotfiles/tree/e2f73a0d023400af0ca996737adabff7004aed25)
 
-## Lisence
+# Lisence
 
 MIT © Sota Yamashita
