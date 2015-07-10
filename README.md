@@ -28,13 +28,13 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
 
 I am Japanese so this font is awesome because it is scaled to match the glyphs for Japanese kana and kanji, and their widths are adjusted to be exactly 667 units (two-thirds of an EM).
 
-Download the from [Latest release](https://github.com/adobe-fonts/source-han-code-jp/releases/latest)
+**Download the from [Latest release](https://github.com/adobe-fonts/source-han-code-jp/releases/latest)**
 
 ### FiraCode
 
 FireCode is monospaced font with programming ligatures. 
 
-Download the from [Latest release](https://github.com/tonsky/FiraCode/releases/latest)
+**Download the from [Latest release](https://github.com/tonsky/FiraCode/releases/latest)**
 
 _Note: If you use Atom editor, I recommend you should not set `font-feature-settings: "liga" 1;`. It will cause confusing. we are talking about [Ligatures aren't spaced correctly #3821](https://github.com/atom/atom/issues/3821)_
 
