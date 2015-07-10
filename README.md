@@ -2,7 +2,7 @@
 
 :wrench: sensible hacker defaults for OS X. I write comment in Japanese and English.
 
-* Dotfiles
+* [Dotfiles](#dotfiles)
   * [Homebrew](#homebrew)
   * [OS X](#os-x)
   * [Font](#font)
