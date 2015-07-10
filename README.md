@@ -1,6 +1,6 @@
 # Dotfiles
 
-:wrench: sensible hacker defaults for OS X
+:wrench: sensible hacker defaults for OS X. I write comment in Japanese and English.
 
 ## Homebrew
 
