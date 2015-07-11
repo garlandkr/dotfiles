@@ -1,6 +1,6 @@
 # Dotfiles
 
-Sensible hacker defaults for OS X. It is for me but your always welcome any suggestion. Most files have English and Japanese comments for people who unserstand it and use it on their dotfiles. 
+Sensible hacker defaults for OS X. It is for me but your always welcome any suggestion. Most files have English and Japanese comments for people who unserstand it and use it on their dotfiles.
 
 * [Dotfiles](#dotfiles)
   * [Homebrew](#homebrew)
@@ -8,6 +8,7 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
   * [Fonts](#fonts)
     * [Source Han Code JP](#source-han-code-jp)
     * [FiraCode](#firacode)
+* [Manual Settings](#manual-settings)
   * [Chrome](#chrome)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
@@ -34,11 +35,13 @@ I am Japanese so this font is awesome because it is scaled to match the glyphs f
 
 ### FiraCode
 
-FireCode is monospaced font with programming ligatures. 
+FireCode is monospaced font with programming ligatures.
 
 **Download the from [Latest release](https://github.com/tonsky/FiraCode/releases/latest)**
 
 _Note: If you use Atom editor, I recommend you should not set `font-feature-settings: "liga" 1;`. It will cause confusing. we are talking about [Ligatures aren't spaced correctly #3821](https://github.com/atom/atom/issues/3821)_
+
+# Manual Settings
 
 ## Chrome
 
