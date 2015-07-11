@@ -1,2 +1,5 @@
 # Set JAVA_HOME to on OS X
 export JAVA_HOME=$(/usr/libexec/java_home)
+
+# Make vim the default editor.
+export EDITOR='vim';
