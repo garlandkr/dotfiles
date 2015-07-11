@@ -5,11 +5,9 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
 * [Dotfiles](#dotfiles)
   * [Homebrew](#homebrew)
   * [OS X](#os-x)
-  * [Fonts](#fonts)
-    * [Source Han Code JP](#source-han-code-jp)
-    * [FiraCode](#firacode)
 * [Manual Settings](#manual-settings)
   * [Chrome](#chrome)
+  * [Fonts](#fonts)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
 
@@ -23,6 +21,17 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
 
 ```bash
 ./.osx
+```
+
+# Manual Settings
+
+## Chrome
+
+When you launch Chrome, it will install some apps in launchpad. If you do not need them, you can delete them to delete its app directroy below:
+
+```bash
+$ cd /Users/YOUR_HOME_FOLDER/Applications
+$ rm -r Chrome Apps
 ```
 
 ## Fonts
@@ -40,17 +49,6 @@ FireCode is monospaced font with programming ligatures.
 **Download the from [Latest release](https://github.com/tonsky/FiraCode/releases/latest)**
 
 _Note: If you use Atom editor, I recommend you should not set `font-feature-settings: "liga" 1;`. It will cause confusing. we are talking about [Ligatures aren't spaced correctly #3821](https://github.com/atom/atom/issues/3821)_
-
-# Manual Settings
-
-## Chrome
-
-When you launch Chrome, it will install some apps in launchpad. If you do not need them, you can delete them to delete its app directroy below:
-
-```bash
-$ cd /Users/YOUR_HOME_FOLDER/Applications
-$ rm -r Chrome Apps
-```
 
 # Acknowledgements
 
