@@ -1,0 +1,50 @@
+# Useful `.gitignore` templates:
+# https://github.com/github/gitignore
+
+
+# Linux
+*~
+
+
+# Mac OS X
+.DS_Store                         # Thumbnails
+._*
+Thumbs.db
+.Spotlight-V100                   # Files that might appear on external disk
+.Trashes
+
+
+# Windows
+Thumbs.db                         # Windows image file caches
+Desktop.ini                       # Folder config file
+
+
+# Tags
+TAGS                              # Ignore tags created by etags, ctags, gtags (GNU global) and cscope
+!TAGS/
+tags
+!tags/
+gtags.files
+GTAGS
+GRTAGS
+GPATH
+cscope.files
+cscope.out
+cscope.in.out
+cscope.po.out
+
+
+# Vim
+%*
+*.sw[a-z]
+*.un~
+.netrwhist
+Session.vim
+
+
+# SASS
+.sass-cache
+
+
+# Python
+*.pyc                          # Compiled Python files
