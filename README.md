@@ -71,6 +71,10 @@ $ cd /Users/YOUR_HOME_FOLDER/Applications
 $ rm -r Chrome Apps
 ```
 
+## Spotlight
+
+[shortcuts](https://github.com/siong1987/shortcuts) can add Restart/Sleep/Logout/Shutdown shortcuts in Spotlight. 
+
 # Acknowledgements
 
 Inspiration and code was taken from many sources, including:
