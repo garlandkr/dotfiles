@@ -5,10 +5,10 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
 ```zsh
 
 ~
-> p
+❯ p
 
 ~/Documents/projects master 
-> git push origin master
+❯ git push origin master
 
 ```
 
