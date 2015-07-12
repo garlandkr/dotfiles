@@ -1,6 +1,16 @@
-# Dotfiles
+#  Dotfiles
 
 Sensible hacker defaults for OS X. It is for me but your always welcome any suggestion. Most files have English and Japanese comments for people who unserstand it and use it on their dotfiles.
+
+```zsh
+
+~
+> p
+
+~/Documents/projects master 
+> git push origin master
+
+```
 
 * [Dotfiles](#dotfiles)
   * [Homebrew](#homebrew)
