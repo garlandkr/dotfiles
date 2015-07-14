@@ -7,7 +7,7 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
 ~
 ❯ p
 
-~/Documents/projects master 
+~/Documents/projects master
 ❯ git push origin master
 
 ```
@@ -17,6 +17,7 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
   * [OS X](#os-x)
 * [Manual Settings](#manual-settings)
   * [Fonts](#fonts)
+  * [Shell Integration](#shell-integration)
 * [Tips](#tips)
   * [Chrome](#chrome)
 * [Acknowledgements](#acknowledgements)
@@ -60,6 +61,10 @@ FireCode is monospaced font with programming ligatures.
 
 _Note: If you use Atom editor, I recommend you should not set `font-feature-settings: "liga" 1;`. It will cause confusing. we are talking about [Ligatures aren't spaced correctly #3821](https://github.com/atom/atom/issues/3821)_
 
+## Shell Integration
+
+If you use iTerm2, You may be inregrated with the unix shell. This is written in [here](https://iterm2.com/shell_integration.html).
+
 # Tips
 
 ## Chrome
@@ -73,7 +78,7 @@ $ rm -r Chrome Apps
 
 ## Spotlight
 
-[shortcuts](https://github.com/siong1987/shortcuts) can add Restart/Sleep/Logout/Shutdown shortcuts in Spotlight. 
+[shortcuts](https://github.com/siong1987/shortcuts) can add Restart/Sleep/Logout/Shutdown shortcuts in Spotlight.
 
 # Acknowledgements
 
