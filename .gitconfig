@@ -97,10 +97,10 @@
 	contributors = shortlog --summary --numbered
 
 	# Find out who is currently active on the repository
-  # Displays committers in descending order of number of commits
-  who = shortlog --numbered --summary --email --no-merges --since="3 months"
+        # Displays committers in descending order of number of commits
+        who = shortlog --numbered --summary --email --no-merges --since="3 months"
 
-  # Quickly see what you've done today
+        # Quickly see what you've done today
 	today = log --since="10am" --author='$(git config user.name)'  --format='%C(blue)%ad: %C(green)%h %C(reset)%s'
 
 	# Credit an author on the latest commit
@@ -214,7 +214,7 @@
 	# installations. To use `simple` instead, add this to your `~/.extra` file:
 	# `git config --global push.default simple`. See http://git.io/mMah-w.
 	# default = matching
-	default = upstream
+	default = current
 	# Make `git push` push relevant annotated tags when pushing branches out.
 	followTags = true
 
