@@ -1,4 +1,25 @@
-#  Dotfiles
+> Sensible hacker defaults for OS X.
+
+[![MIT License][mit-badge]][mit]
+
+<br />
+
+
+
+<br />
+
+<p align="center">
+  <b><a href="#about">About</a></b>
+  |
+  <b><a href="#manual-settings">Manual Settings</a></b>
+  |
+  <b><a href="#tips">Tips</a></b>
+  |
+  <b><a href="#license">License</a></b>
+</p>
+
+
+## About
 
 Sensible hacker defaults for OS X. It is for me but your always welcome any suggestion. Most files have English and Japanese comments for people who unserstand it and use it on their dotfiles.
 
@@ -12,48 +33,43 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
 
 ```
 
-* [Dotfiles](#dotfiles)
-  * [Homebrew](#homebrew)
-  * [OS X](#os-x)
-* [Manual Settings](#manual-settings)
-  * [Fonts](#fonts)
-  * [Shell Integration](#shell-integration)
-* [Tips](#tips)
-  * [Chrome](#chrome)
-* [Acknowledgements](#acknowledgements)
-* [License](#license)
-
-## Homebrew
+### Homebrew
 
 ```bash
 ./brew.sh
 ```
 
-## OS X
+### OS X
 
 ```bash
 ./.osx
 ```
 
-# Manual Settings
+## Manual Settings
 
-## Fonts
+### Apps
+
+* Toggl: https://support.toggl.com/toggl-on-my-desktop/
+* Google Chrome: http://www.google.com/chrome/
+* Atom: https://atom.io/
+
+### Fonts
 
 * Font size: 15pt
 
-### Source Han Code JP
+#### Source Han Code JP
 
 I am Japanese so this font is awesome because it is scaled to match the glyphs for Japanese kana and kanji, and their widths are adjusted to be exactly 667 units (two-thirds of an EM).
 
 **Download the from [Latest release](https://github.com/adobe-fonts/source-han-code-jp/releases/latest) manually.**
 
-### Droid Sans Mono for Powerline
+#### Droid Sans Mono for Powerline
 
 Droid Sans Mono for Powerline is formerly known as Droid Sans Mono.
 
 **Download the from [GitHub](https://github.com/powerline/fonts) manually.**
 
-### FiraCode
+#### FiraCode
 
 FireCode is monospaced font with programming ligatures.
 
@@ -61,13 +77,13 @@ FireCode is monospaced font with programming ligatures.
 
 _Note: If you use Atom editor, I recommend you should not set `font-feature-settings: "liga" 1;`. It will cause confusing. we are talking about [Ligatures aren't spaced correctly #3821](https://github.com/atom/atom/issues/3821)_
 
-## Shell Integration
+### Shell Integration
 
 If you use iTerm2, You may be inregrated with the unix shell. This is written in [here](https://iterm2.com/shell_integration.html).
 
-# Tips
+## Tips
 
-## Chrome
+### Chrome
 
 When you launch Chrome, it will install some apps in launchpad. If you do not need them, you can delete them to delete its app directroy below:
 
@@ -76,11 +92,11 @@ $ cd /Users/YOUR_HOME_FOLDER/Applications
 $ rm -r Chrome Apps
 ```
 
-## Spotlight
+### Spotlight
 
 [shortcuts](https://github.com/siong1987/shortcuts) can add Restart/Sleep/Logout/Shutdown shortcuts in Spotlight.
 
-# Acknowledgements
+## Acknowledgements
 
 Inspiration and code was taken from many sources, including:
 
@@ -90,6 +106,12 @@ Inspiration and code was taken from many sources, including:
 * [Nicolas Gallagher's dotfiles](https://github.com/necolas/dotfiles)
 * [Yan Pritzker's dotfiles](https://github.com/skwp/dotfiles/tree/e2f73a0d023400af0ca996737adabff7004aed25)
 
-# Lisence
 
-MIT © Sota Yamashita
+## Lisence
+
+[MIT][mit] © [Sota Yamashita][me]
+
+
+[me]:             https://github.com/sotayamashita
+[mit]:            https://github.com/sotayamashita/electron-adventure/blob/master/LICENSE
+[mit-badge]:      https://img.shields.io/github/license/sotayamashita/electron-adventure.svg?style=flat-square
