@@ -113,5 +113,5 @@ Inspiration and code was taken from many sources, including:
 
 
 [me]:             https://github.com/sotayamashita
-[mit]:            https://github.com/sotayamashita/electron-adventure/blob/master/LICENSE
-[mit-badge]:      https://img.shields.io/github/license/sotayamashita/electron-adventure.svg?style=flat-square
+[mit]:            https://github.com/sotayamashita/dotfiles/blob/master/LICENSE
+[mit-badge]:      https://img.shields.io/github/license/sotayamashita/dotfiles.svg?style=flat-square
