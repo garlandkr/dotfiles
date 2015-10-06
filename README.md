@@ -24,7 +24,6 @@
 Sensible hacker defaults for OS X. It is for me but your always welcome any suggestion. Most files have English and Japanese comments for people who unserstand it and use it on their dotfiles.
 
 ```zsh
-
 ~
 ❯ p
 
@@ -55,27 +54,24 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
 
 ### Fonts
 
-* Font size: 15pt
+**Source Han Code JP**
 
-#### Source Han Code JP
+Download the from [GitHub](https://github.com/adobe-fonts/source-han-code-jp/) manually.
 
-I am Japanese so this font is awesome because it is scaled to match the glyphs for Japanese kana and kanji, and their widths are adjusted to be exactly 667 units (two-thirds of an EM).
+**Droid Sans Mono for Powerline**
 
-**Download the from [Latest release](https://github.com/adobe-fonts/source-han-code-jp/releases/latest) manually.**
+Download the from [GitHub](https://github.com/powerline/fonts/) manually.
 
-#### Droid Sans Mono for Powerline
+**Office Code Pro**
 
-Droid Sans Mono for Powerline is formerly known as Droid Sans Mono.
+Download the from [GitHub](https://github.com/nathco/Office-Code-Proreleases/) manually.
 
-**Download the from [GitHub](https://github.com/powerline/fonts) manually.**
+**FiraCode**
 
-#### FiraCode
+:warning: _If you use Atom editor, I recommend you should not set `font-feature-settings: "liga" 1;`. It will cause confusing. we are talking about [Ligatures aren't spaced correctly #3821](https://github.com/atom/atom/issues/3821)_
 
-FireCode is monospaced font with programming ligatures.
+Download the from [GitHub](https://github.com/tonsky/FiraCode/) manually.
 
-**Download the from [Latest release](https://github.com/tonsky/FiraCode/releases/latest) manually.**
-
-_Note: If you use Atom editor, I recommend you should not set `font-feature-settings: "liga" 1;`. It will cause confusing. we are talking about [Ligatures aren't spaced correctly #3821](https://github.com/atom/atom/issues/3821)_
 
 ### Shell Integration
 
