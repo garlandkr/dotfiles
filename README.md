@@ -48,8 +48,8 @@ Sensible hacker defaults for OS X. It is for me but your always welcome any sugg
 
 ### Apps
 
-* Toggl: https://support.toggl.com/toggl-on-my-desktop/
-* Google Chrome: http://www.google.com/chrome/
+
+* Google Chrome Canary: https://www.google.com/chrome/browser/canary.html
 * Atom: https://atom.io/
 
 ### Fonts
